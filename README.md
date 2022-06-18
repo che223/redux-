@@ -1,2 +1,3 @@
 # redux-
 关于redux的练习
+用redex写了一个todoList小组件，中间件用的是thunk和saga两种，个人感觉thunk更简便一点，不过saga更方便逻辑解耦
